@@ -19,4 +19,4 @@ jobs:
         go-version: 1.19
     
     - name: Test
-      run: make testgit s
+      run: make test
